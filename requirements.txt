@@ -1,0 +1,11 @@
+# Core Dependencies
+pydub==0.25.1
+numpy==1.21.6
+opencv-python==4.6.0.66
+tqdm==4.64.1
+PyAudio==0.2.12
+ffmpeg-python==0.2.0
+
+# GUI Requirements
+tk==0.1.0
+Pillow==9.3.0
