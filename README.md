@@ -24,7 +24,7 @@ Free audio steganography tool for MP3/AVI conversion.
 ## Installation - Kurulum - 安装 - Установка
 
 ```bash
-git clone https://github.com/yourusername/SoundCoder.git
+git clone https://github.com/soundevs-tr/Sound-Coder.git
 cd SoundCoder
 pip install -r requirements.txt
 python soundcoder.py
