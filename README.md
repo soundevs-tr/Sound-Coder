@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/soundcoder_logo.svg" width="200">
+  <img src="assets/python-logo.png" width="200">
+</p>
+
 
 # Sound-Coder
 Free audio steganography tool for MP3/AVI conversion.
